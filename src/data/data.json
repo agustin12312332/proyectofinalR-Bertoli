@@ -1,0 +1,39 @@
+[
+    {
+    "id":1,
+    "titulo": "Remeron",
+    "descripcion":"Stock - Beef, Brown",
+    "categoria" : "remeras",
+    "imagen":"https://i.postimg.cc/9MVLJP9X/1.png",
+    "precio":"100",
+    "stock" : 10
+    },
+    {
+    "id":2,
+    "titulo": "remerita",
+    "descripcion":"Stock - Beef, Brown",
+    "categoria" : "remeras",
+    "imagen":"https://i.postimg.cc/9MVLJP9X/1.png",
+    "precio":"400",
+    "stock" : 10
+    },
+    {
+    "id":3,
+    "titulo": "gorras",
+    "descripcion":"Stock - Beef, Brown",
+    "categoria" : "gorras",
+    "imagen":"https://i.postimg.cc/9MVLJP9X/1.png",
+    "precio":"500",
+    "stock" : 10
+    },
+    {
+    "id":4,
+    "titulo": "pantalon",
+    "descripcion":"Stock - Beef, Brown",
+    "categoria" : "pantalon",
+    "imagen":"https://i.postimg.cc/9MVLJP9X/1.png",
+    "precio":"200",
+    "stock" : 10
+    }
+    
+]
